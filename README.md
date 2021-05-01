@@ -1,9 +1,9 @@
 # CG.Obsidian.Web.Clients: 
 ---
-[![Build Status](https://dev.azure.com/codegator/CG.Obsidian.Web.Clients/_apis/build/status/CodeGator.CG.Obsidian.Web.Clients?branchName=master)](https://dev.azure.com/codegator/CG.Obsidian.Web.Clients/_build/latest?definitionId=1&branchName=master)
+[![Build Status](https://dev.azure.com/codegator/CG.Obsidian.Web.Clients/_apis/build/status/CodeGator.CG.Obsidian.Web.Clients?branchName=main)](https://dev.azure.com/codegator/CG.Obsidian.Web.Clients/_build/latest?definitionId=59&branchName=main)
 [![Github docs](https://img.shields.io/static/v1?label=Documentation&message=online&color=blue)](https://codegator.github.io/CG.Obsidian.Web.Clients/)
 [![NuGet downloads](https://img.shields.io/nuget/dt/CG.Obsidian.Web.Clients.svg?style=flat)](https://nuget.org/packages/CG.Obsidian.Web.Clients)
-![SqlServer DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Obsidian.Web.Clients/1)
+![SqlServer DevOps coverage](https://img.shields.io/azure-devops/coverage/codegator/CG.Obsidian.Web.Clients/59)
 [![Github discussion](https://img.shields.io/badge/Discussion-online-blue)](https://github.com/CodeGator/CG.Obsidian.Web.Clients/discussions)
 
 #### What does it do?
