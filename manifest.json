@@ -13,90 +13,6 @@
       "is_incremental": false
     },
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Obsidian.Web.Clients.IObsidianClient.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Obsidian.Web.Clients.IObsidianClient.html",
-          "hash": "jeAOStwmT6ynuIZ3Sk5UhKVXDIpaiqrIkkhKzccyVF4="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Obsidian.Web.Clients.ObsidianClient.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Obsidian.Web.Clients.ObsidianClient.html",
-          "hash": "a1ifx1oJH0GdXtcajjgl9iWuWFQB3m1yQ+fnst1SAz4="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Obsidian.Web.Clients.Options.ObsidianClientOptions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Obsidian.Web.Clients.Options.ObsidianClientOptions.html",
-          "hash": "gBnVyj3m6Za101E8rTp1W+1FMk4gi150cGsM/AVw/Ls="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Obsidian.Web.Clients.Options.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Obsidian.Web.Clients.Options.html",
-          "hash": "wlZqn5P9+qspNgcW09UNy0Plv5v012fa+KhuVhmZHB0="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Obsidian.Web.Clients.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Obsidian.Web.Clients.html",
-          "hash": "G7zm7P8Ygd/mwzq9+U/gwcQGAwjb2WjP1bpwdYLg7BM="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Obsidian.Web.ServiceCollectionExtensions.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Obsidian.Web.ServiceCollectionExtensions.html",
-          "hash": "EXgNhVR4GLX5Jva+6JLP6w/mpkuI39WJNJbN61w1N+c="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/CG.Obsidian.Web.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/CG.Obsidian.Web.html",
-          "hash": "8MMfG0Y0gPaAsDmDojxHtcOd7ZmA5tDBNMH/J60Ce1o="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "api/index.md",
       "output": {
@@ -109,12 +25,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "hg7hDfR4i6S8GD7Itnz6MsI4CkXxqWgRm6y941L2Q0E="
+          "hash": "n+HfZL3mOX8Yn2xm8apoiB7B0XTRnlTmkQuAY2hpJOI="
         }
       },
       "is_incremental": false,
@@ -201,12 +120,15 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "q+ZWKMLmhXbq2pGvdpwCvPGwJqu5UHSnMtxRB3nnNVA="
+          "hash": "9Cxp3lfquK+ECPWq/LuRkt2WLu7MoNPxmt+OLGvr4BU="
         }
       },
       "is_incremental": false,
@@ -228,12 +150,6 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 3,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 7,
           "skipped_file_count": 0
         },
         "ResourceDocumentProcessor": {
